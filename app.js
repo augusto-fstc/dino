@@ -10,5 +10,5 @@ document.addEventListener("keydown", (e) => {
     dino.classList.contains("dinoJump") === false
   ) {
     dino.classList.toggle("dinoDown");
-  }
+  }//mia pika
 });
